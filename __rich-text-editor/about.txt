@@ -1,0 +1,14 @@
+Title: Rich Text Editor
+Author: Taufik Nurrohman
+URL: http://latitudu.com
+Version: 1.0.0
+
+====
+
+> Just a project for fun.
+
+There aren’t any configurations in this plugin. Just install and use!
+
+A project without any terget, made to facilitate me in writing articles. Please use the [third-party Rich Text Editor plugin](http://mecha-cms.com/article/rich-text-editor "Rich Text Editor Plugin – Mecha CMS") if you want more options.
+
+<!-- block:donate -->

@@ -1,0 +1,14 @@
+Title: Editor Teks Kaya
+Author: Taufik Nurrohman
+URL: http://latitudu.com
+Version: 1.0.0
+
+====
+
+> Proyek iseng.
+
+Tidak ada konfigurasi dalam plugin ini. Cukup pasang dan gunakan!
+
+Sebuah proyek tanpa terget, dibuat untuk mempermudah Saya dalam menulis artikel. Gunakan [plugin Editor Teks Kaya pihak ke tiga](http://mecha-cms.com/article/rich-text-editor "Rich Text Editor Plugin – Mecha CMS") jika Anda menginginkan opsi yang lebih banyak.
+
+<!-- block:donate -->
